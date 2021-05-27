@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "POmb6+KCdb9e5lTGfrOBofVbiJdUs7QflPKrjVB0cYvfOkF1G5ac+cp8TPaGgUKYtj4D8lVigEjMv7No10euLQ==",
+  "success": true,
+  "projectFilePath": "D:\\proyectos\\netcore3\\lab_atdd_corebdd\\lab_atdd_corebdd.domain\\lab_atdd_corebdd.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcuadros_dev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pcuadros_dev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
